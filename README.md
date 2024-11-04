@@ -2,7 +2,15 @@
 
 A project that was developed as a university assignment for the subject "Object Oriented Application Development".
 
-The application was implemented in Visual C# visual-parallel programming language and as a development tool Visual Studio was chosen. The application is also connected to a SQLite database. </br> </br>
+The application was implemented in Visual C# visual-parallel programming language and as a development tool Visual Studio was chosen. The application is also connected to a SQLite database. Purpose of the window application in which an official of the Ministry of Civil Protection will be able to record a case. </br> </br>
+
+<b>Specifically the application will support the following functions:  </b> </br> </br>
+
+1. Outbreak introduction
+2. View all cases
+3. Delete a case
+4. Modify a case
+5. Search for a case </br> </br>
 
 <b> Ιnstallation Ιnstructions: </b> </br> </br>
 
